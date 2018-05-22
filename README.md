@@ -5,7 +5,3 @@ npm i
 bower i
 
 gulp
-
-# Или выполнить start.bat файл
-# start
-# start-b
